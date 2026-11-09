@@ -1,0 +1,9 @@
+{
+  "name": "winter-clawd",
+  "version": "1.1.1",
+  "description": "Snow on the empty start screen under the logo; a snowy Clawd walks there until anything is entered.",
+  "author": { "name": "abcworld123" },
+  "homepage": "https://github.com/abcworld123/winter-clawd",
+  "repository": "https://github.com/abcworld123/winter-clawd",
+  "types": "./types/index.d.ts"
+}

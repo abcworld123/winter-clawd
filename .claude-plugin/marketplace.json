@@ -1,0 +1,12 @@
+{
+  "name": "winter-clawd",
+  "owner": { "name": "abcworld123" },
+  "description": "Snow on the Claude Code start screen",
+  "plugins": [
+    {
+      "name": "winter-clawd",
+      "source": "./",
+      "description": "Snow falls on the empty start screen under the logo, with an optional ice-blue Clawd walking in it"
+    }
+  ]
+}

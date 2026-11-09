@@ -1,0 +1,7 @@
+{
+  "name": "Winter Ice",
+  "base": "dark",
+  "overrides": {
+    "clawd_body": "rgb(159,216,255)"
+  }
+}
