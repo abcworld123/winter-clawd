@@ -2,6 +2,8 @@
 
 A Claude Code mod that lets it snow on the empty start screen, under the logo.
 
+![winter-clawd: snow and an ice-blue Clawd on the empty start screen](docs/screenshot.png)
+
 - **snow**: snow falls over the whole empty area.
 - **scene**: snow piles up on the ground, and an ice-blue Clawd walks around in it, leaving footprints, blinking
   and collecting snow on its head.
